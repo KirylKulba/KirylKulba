@@ -28,6 +28,7 @@ PL:Absolwent kierunku Informatyka Stosowana na Politechnice Wrocławskiej. Posia
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  
 - **Java**
   - Spring
   - Spring Boot
