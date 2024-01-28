@@ -20,21 +20,35 @@
 ---
 
 ### 👨‍💻: About Me :
-EN:I have 1 year and 3 months of professional experience as a Java Developer and I am a graduate of Applied Computer Science from Wroclaw University of Science and Technology. I am a polite, friendly, and sociable individual with a passion for programming. I eagerly dedicate time to gaining experience and solving complex problems.
+EN:I am a graduate of Applied Computer Science from Wrocław University of Science and Technology and I have almost 2 years of professional experience as a Java Developer.
 
-PL:Posiadam 1 rok i 3 miesiące doświadczenia zawodowego na stanowisku programista Java. Absolwent kierunku Informatyka Stosowana na Politechnice Wrocławskiej. Jestem uprzejmą, przyjazną, towarzyską osobą, która ma pasję do programowania i chętnie poświęca czas na zdobywanie doświadczenia, rozwiązywanie trudnych problemów.
+PL:Absolwent kierunku Informatyka Stosowana na Politechnice Wrocławskiej. Posiadam prawie 2 lata doświadczenia zawodowego.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSql"  alt="PostgreSql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  - **Java**
+  - Spring
+  - Spring Boot
+  - Hibernate
+  - SQL
+  - PostgreSQL
+  - JUnit
+  - Docker
+
+- **Git**
+
+- **Web Services**
+  - SOAP
+  - REST
+
+- **Build Tools**
+  - Maven
+  - Gradle
+
+- **Testing**
+  - Playwright
 </div>
 
 
